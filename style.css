@@ -1,1 +1,9 @@
 console.log("Saludos Programas!!!!!");
+h1 {
+	background: red,
+}
+
+body {
+	color: yellow,
+	background: blue
+}
